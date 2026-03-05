@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+pdf2docx
+python-docx
+pytest
+httpx
+authlib
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+aiosqlite
+fastapi-mail
+itsdangerous
+google-auth
